@@ -10,7 +10,6 @@ Información del Despliegue en Servidor (DigitalOcean):
 - Nombre del Droplet: ubuntu-hanna
 - Dirección IP Pública: 167.71.180.74
 - Puerto: 8080
-- Repositorio de GitHub: https://github.com/HannHanna/PJXAact1_t4
 - URL de la API: http://167.71.180.74:8080/api/identificacion
 
 Cuestionario de la Práctica:
