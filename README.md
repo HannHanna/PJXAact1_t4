@@ -9,8 +9,8 @@ Datos de Identificación:
 Información del Despliegue en Servidor (DigitalOcean):
 - Nombre del Droplet: ubuntu-hanna
 - Dirección IP Pública: 167.71.180.74
-- Puerto: 8080
-- URL de la API: http://167.71.180.74:8080/api/identificacion
+- Puerto: 8081
+- URL de la API: http://localhost:8081/api/identificacion
 
 Cuestionario de la Práctica:
 
@@ -21,4 +21,4 @@ Se utiliza la anotación @GetMapping colocada inmediatamente sobre el método co
 
 
 4. ¿Qué puerto usaste en tu VPS y por qué tuviste que definirlo manualmente en vez de dejar el que viene por defecto?
-Se utilizó el puerto 8080. Fue necesario configurarlo de manera manual para evitar conflictos y asegurar el funcionamiento correcto de la aplicación en el servidor virtual, previniendo que chocara con otros servicios activos que ya estuvieran utilizando el puerto predeterminado.
+Se utilizó el puerto 8081. Fue necesario configurarlo de manera manual para evitar conflictos y asegurar el funcionamiento correcto de la aplicación en el servidor virtual, previniendo que chocara con otros servicios activos que ya estuvieran utilizando el puerto predeterminado.
